@@ -1,0 +1,53 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #d3c6aa;
+  font-size: 23px;
+}
+
+a {
+  color: #a7c080;
+  text-decoration: none;
+}
+
+.container {
+  background: linear-gradient(#3f5865, #384b55);
+  padding: 30px;
+  border-radius: 20px;
+  border: 10px outset;
+  border-color: #7fbbb3;
+  margin: 150px;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(#272e33, #2e383c, #374145, #414b50);
+}
+
+ul,
+ol {
+  display: inline-block;
+  text-align: left;
+  margin: 15px;
+}
+
+ol li {
+  margin-bottom: 15px;
+}
+
+.recipe-list {
+  margin: 15%;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 30px;
+}
