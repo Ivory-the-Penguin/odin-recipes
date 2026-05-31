@@ -21,6 +21,8 @@ a {
 
 body {
   background: linear-gradient(#272e33, #2e383c, #374145, #414b50);
+  min-width: 100vh;
+  min-width: 100vw;
 }
 
 ul,
